@@ -1,0 +1,19 @@
+
+[
+    {
+        "firstName" : "Mustafa",
+        "lastName"  : "Kadir",
+        "age" : 22
+    },
+    {
+        "firstName" : "Mehtap",
+        "lastName"  : "Filiz",
+        "age" : 22
+    },
+    {
+        "firstName" : "Hasan",
+        "lastName"  : "Yilmaz",
+        "age" : 22
+    }
+]
+
